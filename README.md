@@ -384,7 +384,7 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 ---
 
-**Author**: Shaikh Md Khasim Basith Nawaz
+**Author**: Samar
 **Course**: Tools in Data Science (TDS)
 **Institution**: IIT Madras
 
